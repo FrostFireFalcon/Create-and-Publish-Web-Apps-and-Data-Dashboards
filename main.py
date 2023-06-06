@@ -16,3 +16,4 @@ This is my learning Web App.
 Enjoy! :)
 """)
 st.write(df)
+st.line_chart(df)
